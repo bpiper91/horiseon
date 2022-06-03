@@ -101,7 +101,7 @@ header nav ul li {
     font-size: 36px;
 }
 
-/* style for benefits sidebar */
+/* style for benefits section */
 
 .benefits {
     margin-right: 20px;
@@ -141,4 +141,5 @@ footer {
 
 footer .made {
     font-size: 20px;
+    font-weight: bold;
 }

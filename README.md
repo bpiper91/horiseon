@@ -23,6 +23,8 @@ To aid readability, I added comments to indicate the start of each section of th
 
 The footer used a second-level heading for information that didn't belong in a heading, so I converted it to a span tag and copied its style.
 
+*Note: the initial commit was done after I had made a couple of minor changes to the unsolved HTML file.*
+
 ## Contact
 
 Brett Piper - <bpiper91@gmail.com>

@@ -1,6 +1,6 @@
 # Horiseon Refactor
 
-![screenshot of the Horiseon home page](./assets/images/screenshot.PNG "Horiseon home page")
+![screenshot of the Horiseon home page](./assets/images/horiseon-screenshot-full.png "Horiseon home page")
 *Horiseon home page*
 
 ## About the Refactor
